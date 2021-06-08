@@ -18,6 +18,7 @@
   * [Built With](#built-with)
   * [Meet the Team](#meet-the-team)
   * [Keeping up with the Team](#keeping-up-with-the-team)
+* [Demo](#demo)
 
 
 
@@ -35,6 +36,13 @@ A quick and efficient hands-off management system that uses facial recognition s
 * Easy to use. :smile: 
 * High level control over employee attendance. :calendar:
 * Provides easy access to your attendance data. :file_folder:
+
+## Demo
+
+
+https://user-images.githubusercontent.com/49691891/121227633-747d0f00-c894-11eb-881e-989fa89c8fa2.mp4
+
+
 
 
 
