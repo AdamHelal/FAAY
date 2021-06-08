@@ -18,11 +18,6 @@
   * [Built With](#built-with)
   * [Meet the Team](#meet-the-team)
   * [Keeping up with the Team](#keeping-up-with-the-team)
-* [GUI](https://github.com/ymi05/FAAY/tree/master/GUI)
-  * [Files](#files)
-  * [Installation](#installation)
-* [Azure Functions](https://github.com/ymi05/FAAY/tree/master/azurefuntionsv1/azurefuntionsv1)
-* [Web App](https://github.com/ymi05/FAAY/tree/master/Angular%20WebApp/cmps%20253/angular/New%20folder/Angular2-AdminLTE)
 
 
 
